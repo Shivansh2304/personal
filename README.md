@@ -7,4 +7,5 @@
 [Shivansh_Resume_Support.pdf](https://github.com/user-attachments/files/25901035/Shivansh_Resume_Support.pdf)
 
 
-[Uploading AI_pitch_Report_Shivansh.docx…]()
+
+[AI_pitch_Report_Shivansh.docx](https://github.com/user-attachments/files/25938651/AI_pitch_Report_Shivansh.docx)
